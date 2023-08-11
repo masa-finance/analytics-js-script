@@ -97,5 +97,3 @@ MasaAnalytics.trackMint(clientId, address, mintEventData);
 ## Conclusion
 
 By following this guide, you'll be able to fully integrate Masa Analytics into your website to track `pageView`, `connectWallet`, `login`, and `mint` events. Make sure to replace placeholders with actual values and customize the tracking according to your specific needs.
-
-For detailed API documentation and further examples, check the [official Masa Analytics repository](LINK_TO_REPO).
