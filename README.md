@@ -72,7 +72,7 @@ Track user login events using the following code snippet:
 
 ```javascript
 // Example tracking login event
-MasaAnalytics.trackLogin(clientId, userAddress, clientApp, clientName, "metamask", "celo");
+MasaAnalytics.trackLogin(clientId, address, clientApp, clientName, "metamask", "celo");
 ```
 
 ## Step 4: Tracking `mint` Event
@@ -91,7 +91,7 @@ var mintEventData = {
   "wallet_type": "metamask",
   "network": "celo"
 };
-MasaAnalytics.trackMint(clientId, userAddress, mintEventData);
+MasaAnalytics.trackMint(clientId, address, mintEventData);
 ```
 
 ## Conclusion
