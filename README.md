@@ -23,7 +23,7 @@ Copy and paste the Masa Analytics initialization script into the `<head>` sectio
     a.async = 1;
     a.src = g;
     m.parentNode.insertBefore(a, m)
-  })(window, document, 'script', 'https://cdn.yourdomain.com/masa-analytics.js');
+  })(window, document, 'script', 'https://analytics.cdn.masa.finance/masa-analytics.js');
 
   // Track page view event
   MasaAnalytics.trackPageView(clientId, clientApp, clientName, pageUrl);
