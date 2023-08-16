@@ -38,7 +38,7 @@ var pageUrl = window.location.href;
 
 ## Step 2: Google Tag Manager Integration
 
-If you are using Goole Tag Manager you do not need to do **Step 1** start from **Step 2**
+If you are using Google Tag Manager you do not need to do **Step 1** start from **Step 2**
 
 1. **Go to Google Tag Manager** (GTM) and create a new tag.
 2. **Choose the 'Custom HTML' tag type** and paste the Masa Analytics initialization script from Step 1.
